@@ -9,7 +9,7 @@ Open to remote work and collaborating on projects that promote positive social i
 ### 💪🏾 Current Work 
 ______________________________________________________________________________________
 
-🔭 Working on making my designs more accessible and responsive both in code and design tools
+🔭 Making my designs more accessible and responsive both in code and design tools
 
 ✍🏾 Writing about my tech journey on my blog ---> objector.dev
 
