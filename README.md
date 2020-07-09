@@ -1,4 +1,4 @@
-### Hi  👋
+### HEY
 
 I am a Frontend Developer and UI/UX designer based in NYC 
 
