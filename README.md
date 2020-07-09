@@ -4,7 +4,7 @@ I am a Frontend Developer and UI/UX designer based in NYC.
 
 
 
-## 💪🏾 Current Work 
+### 💪🏾 Current Work 
 ______________________________________________________________________________________
 
 🔭 Working on making my designs more accessible and responsive both in code and design tools
@@ -12,7 +12,7 @@ ________________________________________________________________________________
 ✍🏾 Writing about my tech journey on my blog ---> objector.dev
 
 
-## 🌱 I’m currently learning:
+### 🌱 I’m currently learning:
 _____________________________________________________________________________________
 
 🐍 Everything about Python and how to utilize data visualization with the data I gather for my UI design concepts
@@ -20,14 +20,14 @@ ________________________________________________________________________________
 🎨 Using Machine Learning in art and design projects
 
 
-## 👯 Would love to collaborate on ...
+### 👯 Would love to collaborate on ...
 _____________________________________________________________________________________
 
 💡 Any and all projects dealing with Python and visualizing datasets or web design
 
 
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 ______________________________________________________________________________________
 ### Twitter: [@nycbeardo](https://twitter.com/NYCBEARDO)
 ### Email: hey@nycbeardo.design
