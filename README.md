@@ -6,7 +6,9 @@ I am a Frontend Developer and UI/UX designer based in NYC
 ______________________________________________________________________________________
 
 🌱 I’m currently learning Python and how to utilize data visualization with the data I gather for my UI design concepts
+
 🔭 Working on making my designs more accessiable and responsive
+
 🎨 Using Machine Learning in art and design projects
 
 
