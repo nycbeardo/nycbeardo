@@ -1,6 +1,8 @@
 ### HEY 
 
-I am a Frontend Developer and UI/UX designer based in NYC 
+I am a Frontend Developer and UI/UX designer based in NYC. 
+
+
 
 ## 💪🏾 Current Work 
 ______________________________________________________________________________________
@@ -10,12 +12,19 @@ ________________________________________________________________________________
 ✍🏾 Writing about my tech journey on my blog ---> objector.dev
 
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning:
 _____________________________________________________________________________________
 
-🐍 I’m currently learning Python and how to utilize data visualization with the data I gather for my UI design concepts
+🐍 Everything about Python and how to utilize data visualization with the data I gather for my UI design concepts
 
 🎨 Using Machine Learning in art and design projects
+
+
+## 👯 Would love to collaborate on ...
+_____________________________________________________________________________________
+
+💡 Any and all projects dealing with Python and visualizing datasets or web design
+
 
 
 ## 📫 How to reach me:
