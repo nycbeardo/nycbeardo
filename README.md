@@ -1,6 +1,7 @@
 ### HEY 
 
-I am a Frontend Developer and UI/UX designer based in NYC. 
+I am a Frontend Developer and UI/UX designer based in NYC who loves to create beautiful and fluid experiences for the web. 
+Open to remote work and collaborating on projects that promote positive social impact through the intersection of information design, multimedia computing, and technology
 
 
 
