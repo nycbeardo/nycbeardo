@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 🔭 Making my designs more accessible and responsive both in code and design tools
 
-✍🏾 Writing about my tech journey on my blog ---> objector.dev
+✍🏾 Writing about my tech journey on my blog ---> [objector](https://objector.netlify.app/)
 
 
 
