@@ -12,6 +12,8 @@ ________________________________________________________________________________
 ✍🏾 Writing about my tech journey on my blog ---> objector.dev
 
 
+
+
 ### 🌱 I’m currently learning:
 _____________________________________________________________________________________
 
@@ -20,10 +22,14 @@ ________________________________________________________________________________
 🎨 Using Machine Learning in art and design projects
 
 
+
+
 ### 👯 Would love to collaborate on ...
 _____________________________________________________________________________________
 
 💡 Any and all projects dealing with Python and visualizing datasets or web design
+
+
 
 
 
