@@ -86,8 +86,8 @@ ________________________________________________________________________________
 <br/>
 
 ### <div align=center> Currently listening:<div/>
-____________________________________________________________________________________
 
+<br/>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mstevens1188&cover_image=true&theme=novatorem"/></div>  
 
