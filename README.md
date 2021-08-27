@@ -15,6 +15,7 @@
 </a>  
 </div>
 
+<br/>
 
 # About:
 ______________________________________________________________________________________
@@ -28,6 +29,7 @@ Im also a big foodie, a music nerd, and a art stan who occasionally dabbles in p
 Open to remote work and collaborating on projects that promote positive social impact through the intersection of information design, multimedia computing, and technology
 
 <br/>
+
 
 ## Tools & Tech:
 ______________________________________________________________________________________
@@ -81,11 +83,14 @@ ________________________________________________________________________________
 
 💡 UI centric projects dealing with CSS and SASS
 
+<br/>
 
-### Currently listening:
+### <div align=center> Currently listening:<div/>
 ____________________________________________________________________________________
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mstevens1188&cover_image=true&theme=compact" /></div>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mstevens1188&cover_image=true&theme=novatorem"/></div>  
+
 
 
 
