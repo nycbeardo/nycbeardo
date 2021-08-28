@@ -57,7 +57,7 @@ ________________________________________________________________________________
 <br />
 
 
-### 💪🏾 Works In Progress:
+## 💪🏾 Works In Progress:
 ______________________________________________________________________________________
 
 🔭 Making my designs more accessible and responsive both in code and design tools
@@ -67,7 +67,7 @@ ________________________________________________________________________________
 
 <br/>
 
-### 🌱 Currently learning:
+## 🌱 Currently learning:
 _____________________________________________________________________________________
 
 🎨 Using Machine Learning in art and design projects
@@ -79,7 +79,7 @@ ________________________________________________________________________________
 <br/>
 
 
-### 👯 Would love to collaborate on ...
+## 👯 Would love to collaborate on ...
 _____________________________________________________________________________________
 
 💡 Any and all projects dealing with Python and visualizing datasets or web design
