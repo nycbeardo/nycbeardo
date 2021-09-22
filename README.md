@@ -25,9 +25,9 @@ ________________________________________________________________________________
 
 Pronouns: he/him/his
 
-I am a Frontend Developer and UI/UX designer based in NYC who loves to create beautiful and fluid experiences for the web.
+NYC based Frontend Engineer and UI Designer who loves creating beautiful and fluid web things.
 
-Im also a big foodie, a music nerd, and a art stan who occasionally dabbles in photography. 
+Also a big foodie, a music nerd, and a art stan who occasionally dabbles in photography. 
 
 Open to remote work and collaborating on projects that promote positive social impact through the intersection of information design, multimedia computing, and technology
 
@@ -70,11 +70,11 @@ ________________________________________________________________________________
 ## 🌱 Currently learning:
 _____________________________________________________________________________________
 
-🎨 Using Machine Learning in art and design projects
-
 🎨 Making CSS Art to extend my developer skills
 
-🐍 Everything about Python and how to utilize data visualization with the data I gather for my UI design concepts
+🎨 How to create generative art in Javascript
+
+🐍 Everything about Python and data visualization
 
 <br/>
 
