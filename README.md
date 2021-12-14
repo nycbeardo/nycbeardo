@@ -80,9 +80,9 @@ ________________________________________________________________________________
 ## 👯 Would love to collaborate on ...
 _____________________________________________________________________________________
 
-💡 Any and all projects dealing with Python and visualizing datasets or web design
+💡 Any JAMstack based web app projects (11ty, Gatsby, Ghost)
 
-💡 UI centric projects dealing with CSS and SASS
+💡 User Interface and multimedia projects dealing with generative art
 
 <br/>
 
