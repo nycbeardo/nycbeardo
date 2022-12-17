@@ -93,9 +93,9 @@ Open to remote work and collaborating on projects that promote positive social i
 
 ## 👯 Would love to collaborate on ...
 
-💡 Any JAMstack based web app projects (11ty, Gatsby, Ghost)
+💡 Any JAMstack based web app projects (11ty, Astro)
 
-💡 User Interface and multimedia projects dealing with generative art
+💡 User Interface and multimedia projects dealing with generative and algorithmic art
 
 <br/>
 
