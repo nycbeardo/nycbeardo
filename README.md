@@ -26,8 +26,6 @@ Pronouns: he/him/his
 
 NYC based Frontend Engineer and UI Designer who loves creating beautiful and fluid things for the web.
 
-Also a big foodie, a music nerd, and a art stan who occasionally dabbles in photography. 
-
 Open to remote work and collaborating on projects that promote positive social impact through the intersection of information design, multimedia computing, and technology
 
 <br/>
