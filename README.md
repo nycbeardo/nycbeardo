@@ -24,7 +24,7 @@
 
 Pronouns: he/him/his
 
-NYC based Frontend Engineer and UI Designer who loves creating beautiful and fluid things for the web.
+NYC-based Frontend Engineer who loves creating artful, fluid, and highly functional things online.
 
 Open to remote work and collaborating on projects that promote positive social impact through the intersection of information design, multimedia computing, and technology
 
