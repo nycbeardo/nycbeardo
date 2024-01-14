@@ -51,11 +51,6 @@ Open to remote work and collaborating on projects that promote positive social i
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
             </div>
-
-### Design
-<div align="left">
-   <img src="https://img.shields.io/badge/Figma-005571?style=for-the-badge&logo=figma&logoColor=white" />
-  </div>
   
 ### Version Control
 <div align="left">
@@ -70,41 +65,30 @@ Open to remote work and collaborating on projects that promote positive social i
 
 ## 💪🏾 Works In Progress:
 
-🔭 Making my designs more accessible and responsive both in code and design tools
+🔭 Experimenting with generative art concepts using p5.js
 
 ✍🏾 Writing about my tech journey on my blog ---> [Objector](https://objector.netlify.app/)
 
 
 <br/>
 
-## 🌱 Currently learning:
+## 🌱 Current focus:
 
 
-🎨 Making CSS Art to extend my developer skills
+ Studying LLMs and AI prompt engineering for developers
 
-🎨 How to create generative art in Javascript
-
-🐍 Everything about Python and data visualization
+ Extending my skillset with Three.js and React
 
 <br/>
 
 
 ## 👯 Would love to collaborate on ...
 
-💡 Any JAMstack based web app projects (11ty, Astro)
+💡 SSG-based web app projects (11ty, Astro)
 
 💡 User Interface and multimedia projects dealing with generative and algorithmic art
 
 <br/>
-
-### <div align=center> Currently listening:<div/>
-
-<br/>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mstevens1188&cover_image=true&theme=novatorem"/></div>  
-
-
-
 
 
 
