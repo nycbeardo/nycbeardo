@@ -74,9 +74,6 @@ Open to remote work and collaborating on projects that promote positive social i
 
 ## 🌱 Current focus:
 
-
- Studying LLMs and AI prompt engineering for developers
-
  Studying Web Accessibility following WCAG and ARIA guidelines
 
  Extending my skillset with Three.js and React
