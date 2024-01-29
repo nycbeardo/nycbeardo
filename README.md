@@ -77,7 +77,7 @@ Open to remote work and collaborating on projects that promote positive social i
 
  Studying LLMs and AI prompt engineering for developers
 
- Studying Web Accessibility in accordance to WCAG and ARIA guidelines
+ Studying Web Accessibility in accordance with WCAG and ARIA guidelines
 
  Extending my skillset with Three.js and React
 
