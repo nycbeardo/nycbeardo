@@ -74,7 +74,7 @@ Open to remote work and collaborating on projects that promote positive social i
 
 ## 🌱 Current focus:
 
- Studying Web Accessibility following WCAG and ARIA guidelines
+ Studying Web Accessibility following WCAG and ARIA protocols
 
  Extending my skillset with Three.js and React
 
