@@ -85,7 +85,7 @@ Open to remote work and collaborating on projects that promote positive social i
 
 💡 SSG-based web app projects (11ty, Astro)
 
-💡 User Interface and multimedia projects dealing with generative and algorithmic art
+💡 User Interface and multimedia projects involving generative/algorithmic art and creative code.
 
 <br/>
 
