@@ -42,7 +42,6 @@ Open to remote work and collaborating on projects that promote positive social i
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    <img src="https://img.shields.io/badge/React-33302E?style=for-the-badge&logo=react&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5js-css&logoColor=white" />
- <img src="https://img.shields.io/badge/Three.js-2599ED?style=for-the-badge&logo=three&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/11ty-000000?style=for-the-badge&logo=eleventy&logoColor=white" />
   <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
 </div>
