@@ -75,7 +75,7 @@ Open to remote work and collaborating on projects that promote positive social i
 
  Studying Web Accessibility following WCAG and ARIA protocols
 
- Extending my skillset with Three.js and React
+ Extending my skillset with React and p5.js
 
 <br/>
 
