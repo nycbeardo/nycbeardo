@@ -22,9 +22,7 @@
 
 # About:
 
-Pronouns: he/him/his
-
-NYC-based Creative Technologist with frontend engineering experience who loves to create artful, accessible, and functional things for the web. I am open to collaborating on projects that promote positive social impact through the intersection of information design, multimedia computing, and technology. In addition, I aim to build projects promoting accessibility and fair access to data.
+I am a Creative Technologist based in NYC who loves to create artful, accessible, and functional web content. I am open to collaborating on projects that promote positive social impact through the intersection of information design, multimedia computing, and technology. I also aim to build projects that promote accessibility and fair access to data.
 
 <br/>
 
@@ -60,7 +58,7 @@ NYC-based Creative Technologist with frontend engineering experience who loves t
 <br />
 
 
-## 💪🏾 Works In Progress:
+## Works In Progress:
 
 🔭 Experimenting with generative art concepts using p5.js
 
@@ -69,7 +67,7 @@ NYC-based Creative Technologist with frontend engineering experience who loves t
 
 <br/>
 
-## 🌱 Current focus:
+## Current focus:
 
  Studying Web Accessibility following WCAG and ARIA protocols
 
@@ -78,7 +76,7 @@ NYC-based Creative Technologist with frontend engineering experience who loves t
 <br/>
 
 
-## 👯 Would love to collaborate on ...
+## Would love to collaborate on ...
 
 💡 SSG-based web app projects (11ty, Astro)
 
